@@ -1,0 +1,267 @@
+<html>
+
+<head>
+
+<title>something</title>
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+</head>
+
+<body bgcolor="#000000">
+
+<center>
+
+
+
+<table border="0" bgcolor="#000000" width="735" cellspacing="0" cellpadding="0">
+
+<tr><td><img src="https://i.imgur.com/yXHztMj.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/NNp86mv.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/cnAlhIM.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/RvJEqeQ.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/Juphdnm.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/86mZglM.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/CfcNgbr.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/tae6Znj.jpeg" border="0"></td></tr>
+
+<tr>
+
+<td width="735" valign="top">
+
+<table border="0" bgcolor="#000000" width="735" cellspacing="0" cellpadding="0">
+
+<tr><td width="17" valign="top" background="">
+
+<tr><td><img src="https://i.imgur.com/z5PEHSs.jpeg" border="0"></td></tr>
+
+<td width="514" valign="top" bgcolor="#2B0E47">
+
+<table border="0" bgcolor="#2B0E47" width="514" cellspacing="0" cellpadding="0">
+
+<tr><td><img src="https://i.imgur.com/6P1i1xb.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/pd2wFIR.jpeg" border="0"></td></tr>
+
+<tr><td><img src="https://i.imgur.com/f0I98cj.jpeg" border="0"></td></tr>
+
+</table>
+
+<!--CONTENTS AREA-->
+
+
+
+<style>
+
+   .header {
+
+        color: white; /* Texto em branco */
+
+        font-size: 20px;
+
+    }
+
+</style>
+
+
+
+<div class="header">& - ??? - &</div>
+
+<center>
+
+Hello to everyone who clicked on the link! I'm a beginner in HTML and CSS, so the design of this page will probably be changed soon. (ahem) Feel free to browse through it. Thank you.
+
+</center>
+
+<p>
+
+
+
+<center><b>You are invisible</b></center>
+
+
+
+<style>
+
+    .container {
+
+        text-align: center; /* Centraliza o conteúdo */
+
+    }
+
+    .meu-botao {
+
+        background-color: #purple; /* Cor de fundo verde */
+
+        color: pink; /* Cor do texto */
+
+        padding: 10px 20px; /* Espaçamento interno */
+
+        border: none; /* Remove a borda */
+
+        border-radius: 5px; /* Borda arredondada */
+
+        cursor: pointer; /* Muda o cursor ao passar o mouse */
+
+        text-decoration: none; /* Remove o sublinhado */
+
+        font-weight: bold; /* Negrito */
+
+        font-style: italic; /* Itálico */
+
+    }
+
+    .meu-botao:hover {
+
+        background-color: #45a049; /* Cor ao passar o mouse */
+
+    }
+
+</style>
+
+
+
+<div class="container">
+
+    <a href="https://fauux.neocities.org/Love" class="meu-botao">[Go visible]
+
+</a>
+
+</div>
+
+
+
+<br><p><br><p>
+
+<center>
+
+lets all � love lain
+
+</center>
+
+<!--END OF CONTENTS AREA-->
+
+</td>
+
+<td width="13" valign="top" background="https://i.imgur.com/OW4kAnu.jpeg">
+
+<img src="middletop.jpg" border="0">
+
+</td>
+
+<td width="174" valign="top" bgcolor="#2B0E47">
+
+<!--MENU AREA-->
+
+<div class="header">log sites</div>
+
+<a href="https://boxd.it/a3X7H">Letterboxd</a><br>
+
+<a href="http://">Backloggd</a><br>
+
+<a href="http://">My anime list</a>
+
+<p>
+
+<div class="header">Other</div>
+
+<a href="https://www.mindistortion.tv/games/pocketemo/?data=3-1-15-5-0-1-1-0-0&name=L">Pocket Emo</a><br>
+
+<p>
+
+<div class="header">Layout Credits</div>
+
+<a href="http://lain.angelic-trust.net" target="_blank">Omnipresence</a><br>
+
+AnimeShrine.COM<br>
+
+<a href="http://dafont.com/" target="_blank">DaFONT</a><br>
+
+<a href="http://lovelyd.shukuya.com/" target="_blank">Lovely Designs</a>
+
+<p>
+
+<!--END OF MENU AREA-->
+
+</td>
+
+<td width="17" valign="top" background="rightborder.jpg"
+
+<!--LEAVE THIS TABLE CELL BLANK-->
+
+</td></tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="735" valign="top">
+
+<img src="https://i.imgur.com/S8tn3aq.jpeg" border="0">
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+</center>
+
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <style>
+
+        iframe {
+
+            width: 200px; /* Largura menor */
+
+            height: 200px; /* Altura menor */
+
+            position: fixed; /* Fixa no lugar, mesmo com rolagem */
+
+            bottom: 0; /* Posiciona no canto inferior */
+
+            left: 0; /* Alinha à esquerda */
+
+            z-index: 1000; /* Garante que fique por cima de outros elementos */
+
+            border: 5px solid navy;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <iframe src="https://www3.cbox.ws/box/?boxid=3541574&boxtag=VjpATt" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe>
+
+</body>
+
+</html>
+
+
